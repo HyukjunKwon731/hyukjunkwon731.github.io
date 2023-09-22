@@ -1,5 +1,5 @@
 # hyukjunkwon731.github.io
-<img src="[http://url/image.png](https://github.com/HyukjunKwon731/hyukjunkwon731.github.io/blob/main/family.jpg?raw=true)" height="60" width="60" >
+<img src="https://github.com/HyukjunKwon731/hyukjunkwon731.github.io/blob/main/family.jpg?raw=true" height="60" width="60" >
 
 Greetings! I am Hyukjun Kwon, a Ph.D. candidate in economics at Rutgers University. My research interests lie in high-dimensional models, machine learning, factor analysis, and causal inference. In particular, my ongoing research focuses on estimation and statistical inference in high-dimensional models. I am on the 2023-24 job market.
 
